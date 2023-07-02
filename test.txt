@@ -1,2 +1,3 @@
 <button>Book Now</button>
 test adding config
+<button>Pay Now</button>
